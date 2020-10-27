@@ -1,0 +1,4 @@
+#Tue Jun 09 19:33:40 IST 2020
+base.0=/Users/vishaljha/Desktop/CoinMan/android/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
